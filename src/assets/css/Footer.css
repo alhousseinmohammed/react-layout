@@ -1,0 +1,21 @@
+body {
+  width: 100vw;
+}
+.myFooter {
+  width: 100vw;
+  background: #4255A4 !important;
+  color: white !important;
+  position: absolute;
+  bottom: 0;
+}
+
+.myFooter img {
+  width: 50% !important;
+  height: 50% !important
+  
+}
+
+.footer-logo {
+  width: 150px;
+  height: auto;
+}
